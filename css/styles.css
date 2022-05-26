@@ -1,16 +1,9 @@
-body {
-  background-color: #EAF6F6;
+a:hover {
+  color: gold;
 }
 
-hr {
-  border-style: none;
-  border-top-style: dotted;
-  border-color: grey;
-  border-width: 5px;
-  width: 5%;
-}
-p {
-  font-size: 20px;
+body {
+  background-color: #EAF6F6;
 }
 
 h1 {
@@ -21,6 +14,18 @@ h2 {
   color: #66BFBF;
 }
 
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
 img {
   height: 200px;
+}
+
+p {
+  font-size: 20px;
 }
